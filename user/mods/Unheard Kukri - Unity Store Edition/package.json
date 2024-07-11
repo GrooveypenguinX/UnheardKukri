@@ -1,7 +1,7 @@
 {
     "name": "Unheard Kukri: Unity Store Edition",
     "author": "GrooveypenguinX",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "license": "NCSA",
     "main": "src/mod.js",
     "sptVersion": "~3.9",
