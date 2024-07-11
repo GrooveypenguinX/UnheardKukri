@@ -1,0 +1,12 @@
+{
+    "manifest": [
+        {
+            "key": "customItems/unheard_kukri.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        }
+    ]
+}
